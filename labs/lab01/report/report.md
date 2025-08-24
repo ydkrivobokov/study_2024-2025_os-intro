@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -90,35 +90,30 @@ VirtualBox (Oracle VM VirtualBox) — программный продукт ви
 
 Создаю виртальный жесткий диск и запускаю скачанный образ операционной системы. (рис. -@fig:001)
 
-![Пример конфигурации QEMU](image/1.png){#fig:001 width=70%}
+![Пример конфигурации QEMU](image/1.jpg)\ref{#fig:001 width=70%}
 
 Через интерактивный установщик задаю базовые настройки для установки операционной системы. (рис. -@fig:002)
 
-![Процесс установки ОС](image/2.png){#fig:002 width=70%}
+![Процесс установки ОС](image/2.jpg)\ref{#fig:002 width=70%}
 
 Продолжаю установку через интерактивный интерфейс. (рис. -@fig:003)
 
-![Пример bash скрипта](image/3.png){#fig:003 width=70%}
+![Пример bash скрипта](image/3.jpg)\ref{#fig:003 width=70%}
 
 Скачиваю набор необходимых пакетов для работы с ОС. (рис. -@fig:004)
 
-![Установка ПО](image/4.png){#fig:004 width=70%}
+![Установка ПО](image/4.jpg)\ref{#fig:004 width=70%}
 
 Продолжаю установку пакетов. (рис. -@fig:005)
 
-![Запуск скрипта](image/5.png){#fig:005 width=70%}
+![Запуск скрипта](image/5.jpg)\ref{#fig:005 width=70%}
 
 Скачиваю необходимые ресурсы для работы Пандок. (рис. -@fig:006)
 
-![Отключение защиты Linux](image/6.png){#fig:006 width=70%}
+![Отключение защиты Linux](image/6.jpg)\ref{#fig:006 width=70%}
 
 
 
-# Домашнее задание
-
-Проверяю последовательность загрузки графического окружения командой dmesg | grep -i с указанием вывода желаемого нахождения (рис. -@fig:010)
-
-![Вывод команды dmesg](image/10.png){#fig:010 width=70%}
 
 # Выводы
 
