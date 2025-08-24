@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -115,27 +115,27 @@ rmdir, rm. Поясните основные опции этих команд.
 
 Провожу настройку. (рис. -@fig:001)
 
-![Настройка](image/1.png){#fig:001 width=70%}
+![Настройка](image/1.jpg){#fig:001 width=70%}
 
 Проверяю есть ли каталог крон. (рис. -@fig:002)
 
-![Использование команды ls](image/2.png){#fig:002 width=70%}
+![Использование команды ls](image/2.jpg){#fig:002 width=70%}
 
 Проверяю права доступа в домашнем каталоге. (рис. -@fig:003)
 
-![Проверка подкаталога](image/3.png){#fig:003 width=70%}
+![Проверка подкаталога](image/3.jpg){#fig:003 width=70%}
 
 Играюсь с папками. (рис. -@fig:004)
 
-![Проверка работы](image/4.png){#fig:004 width=70%}
+![Проверка работы](image/4.jpg){#fig:004 width=70%}
 
 Проверяю ЛС. (рис. -@fig:005)
 
-![ЛС с флагом](image/5.png){#fig:005 width=70%}
+![ЛС с флагом](image/5.jpg){#fig:005 width=70%}
 
 Смотрю команду МЭН. (рис. -@fig:006)
 
-![МЭН](image/6.png){#fig:006 width=70%}
+![МЭН](image/6.jpg){#fig:006 width=70%}
 
 # Контрольные вопросы
 

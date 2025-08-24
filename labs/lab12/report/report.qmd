@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -121,27 +121,27 @@ POSIX-совместимые оболочки разработаны на баз
 
 1. Пишу скрипт Каунт (рис. @fig:001).
 
-![1](image/1.png){#fig:001 width=70%}
+![1](image/1.jpg){#fig:001 width=70%}
 
 2. Демонстрирую выполнение  (рис. @fig:002).
 
-![2](image/2.png){#fig:002 width=70%} 
+![2](image/2.jpg){#fig:002 width=70%} 
 
 3. Пишу скрипт лс. (рис. @fig:003).
 
-![3](image/3.png){#fig:003 width=70%} 
+![3](image/3.jpg){#fig:003 width=70%} 
 
 4. Демонстрирую выполнение. (рис. @fig:004).
 
-![4](image/4.png){#fig:004 width=70%} 
+![4](image/4.jpg){#fig:004 width=70%} 
 
 5. Пишу скрипт. (рис. @fig:005).
 
-![5](image/5.png){#fig:005 width=70%} 
+![5](image/5.jpg){#fig:005 width=70%} 
 
 6. Демонстрирую выполнение. (рис. @fig:006).
 
-![6](image/6.png){#fig:006 width=70%} 
+![6](image/6.jpg){#fig:006 width=70%} 
 
 # Контрольные вопросы
 

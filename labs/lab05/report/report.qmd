@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -108,31 +108,31 @@ chezmoi используется для управления файлами ко
 
 Устанавливаю pass. (рис. -@fig:001)
 
-![Установка ПО](image/1.png){#fig:001 width=70%}
+![Установка ПО](image/1.jpg){#fig:001 width=70%}
 
 Инициализирую с гитхаб. (рис. -@fig:002)
 
-![гит](image/2.png){#fig:002 width=70%}
+![гит](image/2.jpg){#fig:002 width=70%}
 
 Устанавливаю ПО и создаю пароль. (рис. -@fig:003)
 
-![Установка ПО](image/3.png){#fig:003 width=70%}
+![Установка ПО](image/3.jpg){#fig:003 width=70%}
 
 Устанавливаю шрифты. (рис. -@fig:004)
 
-![Установка шрифтов](image/4.png){#fig:004 width=70%}
+![Установка шрифтов](image/4.jpg){#fig:004 width=70%}
 
 Демонстрирую работу. (рис. -@fig:005)
 
-![Вывод](image/5.png){#fig:005 width=70%}
+![Вывод](image/5.jpg){#fig:005 width=70%}
 
 Демонстрирую репозитории. (рис. -@fig:006)
 
-![Проверка изменений](image/6.png){#fig:006 width=70%}
+![Проверка изменений](image/6.jpg){#fig:006 width=70%}
 
 Настраиваю конфиг чезмои. (рис. -@fig:007)
 
-![Изменение конфигурации](image/7.png){#fig:007 width=70%}
+![Изменение конфигурации](image/7.jpg){#fig:007 width=70%}
 
 # Выводы
 

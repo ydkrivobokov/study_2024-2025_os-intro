@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -135,31 +135,31 @@ Midnight Commander (или mc) — псевдографическая коман
 
 Ознакамливаюсь с интерфейсом mc. (рис. @fig:001) 
 
-![Интерфейс mc](image/1.png){#fig:001 width=70%}
+![Интерфейс mc](image/1.jpg){#fig:001 width=70%}
 
 Ознакамливаюсь с интерфейсом mc. (рис. @fig:002) 
 
-![Интерфейс mc](image/2.png){#fig:002 width=70%}
+![Интерфейс mc](image/2.jpg){#fig:002 width=70%}
 
 Ознакамливаюсь с интерфейсом mc. (рис. @fig:003) 
 
-![Интерфейс mc](image/3.png){#fig:003 width=70%}
+![Интерфейс mc](image/3.jpg){#fig:003 width=70%}
 
 Работаю с ченджлог. (рис. @fig:004) 
 
-![Интерфейс mc](image/4.png){#fig:004 width=70%}
+![Интерфейс mc](image/4.jpg){#fig:004 width=70%}
 
 Работаю с текстовым файлом. (рис. @fig:005)
 
-![Редактор mc](image/5.png){#fig:005 width=70%}
+![Редактор mc](image/5.jpg){#fig:005 width=70%}
 
 Изучаю особенности редактирования кода, подсвечивание синтаксиса. (рис. @fig:006)
 
-![Программирование в редакторе](image/6.png){#fig:006 width=70%}
+![Программирование в редакторе](image/6.jpg){#fig:006 width=70%}
 
 Изучаю особенности редактирования кода, подсвечивание синтаксиса. (рис. @fig:007)
 
-![Программирование в редакторе](image/7.png){#fig:007 width=70%}
+![Программирование в редакторе](image/7.jpg){#fig:007 width=70%}
 
 # Контрольные вопросы
 

@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -131,15 +131,15 @@ vi <имя_файла>
 
 Пишу код из листинга в редакторе. (рис. @fig:001)
 
-![Написание кода](image/1.png){#fig:001 width=70%}
+![Написание кода](image/1.jpg){#fig:001 width=70%}
 
 Редактирую через vim горячими клавишами программу. (рис. @fig:002) 
 
-![Редактирование кода](image/2.png){#fig:002 width=70%}
+![Редактирование кода](image/2.jpg){#fig:002 width=70%}
 
 Запускаю написанную программму. (рис. @fig:003)
 
-![Запуск программы](image/3.png){#fig:003 width=70%}  
+![Запуск программы](image/3.jpg){#fig:003 width=70%}  
 
 # Контрольные вопросы
 

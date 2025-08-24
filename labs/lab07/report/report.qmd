@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -143,31 +143,31 @@ cat?
 
 Работаю с мв и цп. (рис. -@fig:001).
 
-![Команды](image/1.png){#fig:001 width=70%}
+![Команды](image/1.jpg){#fig:001 width=70%}
 
 Работаю с командами mv и cp. (рис. -@fig:002).
 
-![Команды mv и cp](image/2.png){#fig:002 width=70%}
+![Команды mv и cp](image/2.jpg){#fig:002 width=70%}
 
 Выполняю указания лабораторной работы. (рис. -@fig:003).
 
-![Указания](image/3.png){#fig:003 width=70%}
+![Указания](image/3.jpg){#fig:003 width=70%}
 
 Проверка измененных прав доступа. (рис. -@fig:004).
 
-![Проверка измененных прав доступа](image/4.png){#fig:004 width=70%}
+![Проверка измененных прав доступа](image/4.jpg){#fig:004 width=70%}
 
 Проверяю файлы. (рис. -@fig:005).
 
-![Файлы](image/5.png){#fig:005 width=70%}
+![Файлы](image/5.jpg){#fig:005 width=70%}
 
 Играюсь с правами доступа и проверяю. (рис. -@fig:006).
 
-![Файлы](image/6.png){#fig:006 width=70%}
+![Файлы](image/6.jpg){#fig:006 width=70%}
 
 Смотрю документацию. (рис. -@fig:007).
 
-![Файлы](image/7.png){#fig:007 width=70%}
+![Файлы](image/7.jpg){#fig:007 width=70%}
 
 # Контрольные вопросы
 

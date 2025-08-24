@@ -64,7 +64,7 @@ format:
       \usepackage{indentfirst}
       \usepackage{float}
       \floatplacement{figure}{H}
-      \usepackage[math,RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
+      \usepackage[RM={Scale=0.94},SS={Scale=0.94},SScon={Scale=0.94},TT={Scale=MatchLowercase,FakeStretch=0.9},DefaultFeatures={Ligatures=Common}]{plex-otf}
 ### Docx output format
   docx:
     toc: true
@@ -117,19 +117,19 @@ https://github.com/lierdakil/pandoc-crossref/releases.
 
 Открываю директорию и начинаю редактирование. (рис. -@fig:001)
 
-![Редактирование отчета](image/1.png){#fig:001 width=70%}
+![Редактирование отчета](image/1.jpg){#fig:001 width=70%}
 
 Указываю основную информацию о лабораторной работе. (рис. -@fig:002)
 
-![Заполнение основной информации](image/2.png){#fig:002 width=70%}
+![Заполнение основной информации](image/2.jpg){#fig:002 width=70%}
 
 Заполняю ход работы. (рис. -@fig:003)
 
-![Цель работы, задание и теоретическое введение](image/3.png){#fig:003 width=70%}
+![Цель работы, задание и теоретическое введение](image/3.jpg){#fig:003 width=70%}
 
 Демонстрирую как выглядит отчет на ГИТХАБ. (рис. -@fig:004)
 
-![Выполнение отчета по лабораторной работе](image/4.png){#fig:004 width=70%}
+![Выполнение отчета по лабораторной работе](image/4.jpg){#fig:004 width=70%}
 
 # Выводы
 
